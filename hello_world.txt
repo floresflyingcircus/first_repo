@@ -1,1 +1,13 @@
 Success?
+
+Yup 
+
+Here's what I did so far...
+
+mkdir first_repo
+cd first_repo
+git init
+git remote add origin https://github.com/floresflyingcircus/first_repo
+git pull origin master
+
+I assume local repo and remote repo are usually named the same?
